@@ -10,6 +10,7 @@
 import unittest
 from unittest.mock import patch
 
+import config
 import run_agents
 
 
@@ -162,7 +163,7 @@ class TestSyncPreservesBreakeven(unittest.TestCase):
         run_agents._sync_positions_from_account(kis, store)
 
         saved = store.slots["KR_005930"]
-        expected_sl = round(293500.0 * (1 - 7.0 / 100))
+        expected_sl = round(293500.0 * (1 - config.STOP_LOSS_MIN_PCT / 100))
         self.assertEqual(saved.get("stop_loss_price"), expected_sl,
                          "breakeven 없으면 SL 재계산되어야 함")
         self.assertEqual(saved.get("quantity"), 3)
