@@ -1,0 +1,24 @@
+.env
+.env.backup.*
+.env.bak_*
+*.env.local
+__pycache__/
+*.py[cod]
+data/agents/*.json
+data/agents/*.jsonl
+data/agents/*.lock
+data/news_archive/
+logs/
+pids/
+*.pid
+state.db
+params_history/
+reviews/
+node_modules/
+.vscode/
+.DS_Store
+Thumbs.db
+data/*.json
+!data/runtime_policy.json
+!data/theme_db.json
+.env copy.example

@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "version": 1,
+    "updated_at": "2026-06-04T08:58:03Z",
+    "updated_by": "migration",
+    "description": "initial migration from config.py/.env"
+  },
+  "strategy": {
+    "KR_BUDGET": 5000000.0,
+    "SCALE_IN_STEPS": [
+      0.5,
+      0.3,
+      0.2
+    ],
+    "STOP_LOSS_PERCENT": 5.0,
+    "TAKE_PROFIT_PERCENT": 10.0,
+    "MAX_AI_POSITION_PCT": 50.0,
+    "MAX_POSITIONS_PER_MARKET": 3,
+    "MIN_ORDER_QUANTITY": 2,
+    "MIN_ORDER_VALUE_KRW": 500000.0
+  },
+  "risk": {
+    "MAX_DAILY_LOSS_PERCENT": 5.0
+  },
+  "allowed_range": {
+    "STOP_LOSS_PERCENT": [
+      3.0,
+      10.0
+    ],
+    "TAKE_PROFIT_PERCENT": [
+      5.0,
+      20.0
+    ],
+    "MAX_AI_POSITION_PCT": [
+      30.0,
+      70.0
+    ],
+    "MAX_POSITIONS_PER_MARKET": [
+      2,
+      5
+    ],
+    "MIN_ORDER_QUANTITY": [
+      1,
+      5
+    ]
+  }
+}

@@ -1,0 +1,2061 @@
+{
+  "themes": {
+    "텅스텐": {
+      "keywords": [
+        "텅스텐",
+        "钨",
+        "tungsten",
+        "APT",
+        "BTO",
+        "YTO",
+        "초경합금",
+        "시멘트카바이드",
+        "티타늄",
+        "특수금속"
+      ],
+      "stocks_krx": [
+        {
+          "code": "098460",
+          "name": "KG케미칼",
+          "note": "텅스텐 소재"
+        },
+        {
+          "code": "058650",
+          "name": "신성이엔지",
+          "note": "희유금속"
+        },
+        {
+          "code": "084370",
+          "name": "유진테크",
+          "note": "초경합금"
+        },
+        {
+          "code": "265250",
+          "name": "현대위아",
+          "note": "기계소재"
+        },
+        {
+          "code": "010130",
+          "name": "고려아연",
+          "note": "비첬금속"
+        },
+        {
+          "code": "103140",
+          "name": "풍산",
+          "note": "비첬금속 가공"
+        }
+      ],
+      "stocks_us": []
+    },
+    "희토류": {
+      "keywords": [
+        "희토류",
+        "稀土",
+        "rare earth",
+        "네오디뮴",
+        "프라세오디뮴",
+        "영구자석",
+        "중국수출통제",
+        "갈륨",
+        "저마늄",
+        "인듐"
+      ],
+      "stocks_krx": [
+        {
+          "code": "098460",
+          "name": "KG케미칼",
+          "note": "희토류 관련"
+        },
+        {
+          "code": "006400",
+          "name": "삼성SDI",
+          "note": "전지소재"
+        },
+        {
+          "code": "010130",
+          "name": "고려아연",
+          "note": "비첬금속"
+        },
+        {
+          "code": "058650",
+          "name": "신성이엔지",
+          "note": "희유금속"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "MP",
+          "name": "MP Materials",
+          "note": "미국 유일 희토류 생산"
+        },
+        {
+          "code": "LAC",
+          "name": "Lithium Americas",
+          "note": "리튬/희토류"
+        }
+      ]
+    },
+    "반도체": {
+      "keywords": [
+        "반도체",
+        "半导体",
+        "semiconductor",
+        "HBM",
+        "AI칩",
+        "파운드리",
+        "웨이퍼",
+        "칩",
+        "GPU",
+        "엔비디아",
+        "TSMC",
+        "마이크론",
+        "DDR5",
+        "SoC",
+        "OSAT",
+        "패키징",
+        "미세공정",
+        "EUV",
+        "CMP",
+        "FO-PLP"
+      ],
+      "stocks_krx": [
+        {
+          "code": "000660",
+          "name": "SK하이닉스"
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자"
+        },
+        {
+          "code": "042700",
+          "name": "한미반도체"
+        },
+        {
+          "code": "357780",
+          "name": "이녹스첨단소재"
+        },
+        {
+          "code": "403870",
+          "name": "HPSP"
+        },
+        {
+          "code": "240810",
+          "name": "원익IPS"
+        },
+        {
+          "code": "036930",
+          "name": "주성엔지니어링"
+        },
+        {
+          "code": "080400",
+          "name": "하이비전시스템"
+        },
+        {
+          "code": "060280",
+          "name": "LS전선"
+        },
+        {
+          "code": "108320",
+          "name": "LX세미콘"
+        },
+        {
+          "code": "039030",
+          "name": "이오테크니카"
+        },
+        {
+          "code": "298040",
+          "name": "휴마시스"
+        },
+        {
+          "code": "090460",
+          "name": "비에이치"
+        },
+        {
+          "code": "336370",
+          "name": "솔트룩스"
+        },
+        {
+          "code": "272290",
+          "name": "이녹스"
+        },
+        {
+          "code": "069660",
+          "name": "현대미포조선"
+        },
+        {
+          "code": "302440",
+          "name": "크리스탈지노믹스"
+        },
+        {
+          "code": "084690",
+          "name": "한올바이오파마"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "NVDA",
+          "name": "NVIDIA",
+          "note": "AI GPU"
+        },
+        {
+          "code": "AMD",
+          "name": "AMD",
+          "note": "CPU/GPU"
+        },
+        {
+          "code": "AVGO",
+          "name": "Broadcom",
+          "note": "네트워킹/커스텀칩"
+        },
+        {
+          "code": "INTC",
+          "name": "Intel",
+          "note": "파운드리/CPU"
+        },
+        {
+          "code": "MU",
+          "name": "Micron",
+          "note": "메모리/HBM"
+        },
+        {
+          "code": "ASML",
+          "name": "ASML",
+          "note": "EUV 장비"
+        },
+        {
+          "code": "AMAT",
+          "name": "Applied Materials",
+          "note": "반도체 장비"
+        },
+        {
+          "code": "KLAC",
+          "name": "KLA Corp",
+          "note": "검사 장비"
+        },
+        {
+          "code": "LRCX",
+          "name": "Lam Research",
+          "note": "에칭 장비"
+        },
+        {
+          "code": "MRVL",
+          "name": "Marvell",
+          "note": "데이터센터 칩"
+        },
+        {
+          "code": "TSM",
+          "name": "TSMC",
+          "note": "파운드리"
+        },
+        {
+          "code": "SNPS",
+          "name": "Synopsys",
+          "note": "EDA"
+        },
+        {
+          "code": "CDNS",
+          "name": "Cadence",
+          "note": "EDA"
+        }
+      ]
+    },
+    "방산": {
+      "keywords": [
+        "방산",
+        "국방",
+        "weapon",
+        "미사일",
+        "전차",
+        "방위산업",
+        "무기수출",
+        "군사",
+        "NATO",
+        "전쟁",
+        "러시아",
+        "우크라이나",
+        "폴란드",
+        "철강장갑"
+      ],
+      "stocks_krx": [
+        {
+          "code": "047810",
+          "name": "한국항공우주"
+        },
+        {
+          "code": "012450",
+          "name": "한화에어로스페이스"
+        },
+        {
+          "code": "079550",
+          "name": "LIG넥스원"
+        },
+        {
+          "code": "280360",
+          "name": "롤스로이스"
+        },
+        {
+          "code": "299660",
+          "name": "풍산"
+        },
+        {
+          "code": "012030",
+          "name": "현대위아"
+        },
+        {
+          "code": "049430",
+          "name": "한국전자홀딩스"
+        },
+        {
+          "code": "272210",
+          "name": "한화시스템"
+        },
+        {
+          "code": "006400",
+          "name": "삼성SDI",
+          "note": "군사용 전지"
+        },
+        {
+          "code": "047040",
+          "name": "대우건설",
+          "note": "군 기지 건설"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "LMT",
+          "name": "Lockheed Martin",
+          "note": "F-35/미사일"
+        },
+        {
+          "code": "RTX",
+          "name": "RTX Corp",
+          "note": "패트리엇/방공"
+        },
+        {
+          "code": "NOC",
+          "name": "Northrop Grumman",
+          "note": "스텔스/B-21"
+        },
+        {
+          "code": "GD",
+          "name": "General Dynamics",
+          "note": "전차/함정"
+        },
+        {
+          "code": "BA",
+          "name": "Boeing",
+          "note": "전투기/미사일"
+        },
+        {
+          "code": "LHX",
+          "name": "L3Harris",
+          "note": "전자전/통신"
+        }
+      ]
+    },
+    "이차전지": {
+      "keywords": [
+        "양극재",
+        "리튬",
+        "전기차",
+        "EV",
+        "배터리",
+        "음극재",
+        "전해질",
+        "충전",
+        "테슬라",
+        "리튬이온",
+        "NCA",
+        "NCM",
+        "LFP",
+        "솔리드스테이트",
+        "전고체배터리",
+        "스웨드폴리온"
+      ],
+      "stocks_krx": [
+        {
+          "code": "006400",
+          "name": "삼성SDI"
+        },
+        {
+          "code": "373220",
+          "name": "LG에너지솔루션"
+        },
+        {
+          "code": "247540",
+          "name": "에코프로비엠"
+        },
+        {
+          "code": "086520",
+          "name": "에코프로"
+        },
+        {
+          "code": "003670",
+          "name": "포스코퓨처엠"
+        },
+        {
+          "code": "096770",
+          "name": "SK이노베이션"
+        },
+        {
+          "code": "006260",
+          "name": "LS"
+        },
+        {
+          "code": "011790",
+          "name": "SKC"
+        },
+        {
+          "code": "005380",
+          "name": "현대차",
+          "note": "EV 완성차"
+        },
+        {
+          "code": "000270",
+          "name": "기아",
+          "note": "EV 완성차"
+        },
+        {
+          "code": "012330",
+          "name": "현대모비스",
+          "note": "EV 부품"
+        },
+        {
+          "code": "068760",
+          "name": "케이피에스",
+          "note": "충전인프라"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "TSLA",
+          "name": "Tesla",
+          "note": "EV/배터리"
+        },
+        {
+          "code": "RIVN",
+          "name": "Rivian",
+          "note": "EV 트럭"
+        },
+        {
+          "code": "LCID",
+          "name": "Lucid Motors",
+          "note": "프리미엄 EV"
+        },
+        {
+          "code": "CHPT",
+          "name": "ChargePoint",
+          "note": "충전인프라"
+        },
+        {
+          "code": "BLNK",
+          "name": "Blink Charging",
+          "note": "충전인프라"
+        },
+        {
+          "code": "ALB",
+          "name": "Albemarle",
+          "note": "리튬 생산"
+        }
+      ]
+    },
+    "AI": {
+      "keywords": [
+        "AI",
+        "인공지능",
+        "딥러닝",
+        "머신러닝",
+        "챗GPT",
+        "ChatGPT",
+        "LLM",
+        "생성형AI",
+        "GPT",
+        "AI서버",
+        "AI반도체",
+        "초거대AI",
+        "데이터센터",
+        "알고리즘",
+        "AGI",
+        "클로드",
+        "Gemini",
+        "딥시크",
+        "코파일럿"
+      ],
+      "stocks_krx": [
+        {
+          "code": "036570",
+          "name": "엔씨소프트"
+        },
+        {
+          "code": "259960",
+          "name": "크래프톤"
+        },
+        {
+          "code": "263750",
+          "name": "펄어비스"
+        },
+        {
+          "code": "251270",
+          "name": "넷마블"
+        },
+        {
+          "code": "035720",
+          "name": "카카오"
+        },
+        {
+          "code": "035420",
+          "name": "NAVER"
+        },
+        {
+          "code": "377300",
+          "name": "당근마켓"
+        },
+        {
+          "code": "323130",
+          "name": "데브시스터즈"
+        },
+        {
+          "code": "060280",
+          "name": "LS전선"
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자"
+        },
+        {
+          "code": "336370",
+          "name": "솔트룩스"
+        },
+        {
+          "code": "272290",
+          "name": "이녹스"
+        },
+        {
+          "code": "298040",
+          "name": "휴마시스"
+        },
+        {
+          "code": "302440",
+          "name": "크리스탈지노믹스"
+        },
+        {
+          "code": "000660",
+          "name": "SK하이닉스",
+          "note": "HBM/AI서버"
+        },
+        {
+          "code": "042700",
+          "name": "한미반도체",
+          "note": "AI 패키징"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "MSFT",
+          "name": "Microsoft",
+          "note": "OpenAI/코파일럿"
+        },
+        {
+          "code": "GOOGL",
+          "name": "Alphabet",
+          "note": "Gemini/딥마인드"
+        },
+        {
+          "code": "META",
+          "name": "Meta",
+          "note": "LLaMA/AI 인프라"
+        },
+        {
+          "code": "AMZN",
+          "name": "Amazon",
+          "note": "AWS/Alexa"
+        },
+        {
+          "code": "PLTR",
+          "name": "Palantir",
+          "note": "AI 분석"
+        },
+        {
+          "code": "SNOW",
+          "name": "Snowflake",
+          "note": "데이터 클라우드"
+        },
+        {
+          "code": "CRM",
+          "name": "Salesforce",
+          "note": "AI CRM"
+        },
+        {
+          "code": "AI",
+          "name": "C3.ai",
+          "note": "엔터프라이즈 AI"
+        },
+        {
+          "code": "SERV",
+          "name": "Serve Robotics",
+          "note": "AI 로봇"
+        },
+        {
+          "code": "SMCI",
+          "name": "Super Micro",
+          "note": "AI 서버"
+        },
+        {
+          "code": "VRT",
+          "name": "Vertiv",
+          "note": "데이터센터 냉각/전원"
+        }
+      ]
+    },
+    "로봇": {
+      "keywords": [
+        "로봇",
+        "robot",
+        "휴머노이드",
+        "자동화",
+        "FA",
+        "공장자동화",
+        "로봇공장",
+        "테슬라봇",
+        "휴머노이드로봇",
+        "서빙로봇",
+        "물류로봇",
+        "의료로봇",
+        "드론",
+        "UAV",
+        "테서랙트"
+      ],
+      "stocks_krx": [
+        {
+          "code": "267260",
+          "name": "HD현대일렉트릭"
+        },
+        {
+          "code": "090460",
+          "name": "비에이치"
+        },
+        {
+          "code": "108320",
+          "name": "LX세미콘"
+        },
+        {
+          "code": "060280",
+          "name": "LS전선"
+        },
+        {
+          "code": "005880",
+          "name": "삼성전기"
+        },
+        {
+          "code": "012330",
+          "name": "현대모비스"
+        },
+        {
+          "code": "272290",
+          "name": "이녹스첨단소재"
+        },
+        {
+          "code": "336370",
+          "name": "솔트룩스"
+        },
+        {
+          "code": "245620",
+          "name": "두산퓨얼셀"
+        },
+        {
+          "code": "241560",
+          "name": "두산로보틱스"
+        },
+        {
+          "code": "060280",
+          "name": "LS전선",
+          "note": "모터/감속기"
+        },
+        {
+          "code": "012450",
+          "name": "한화에어로스페이스",
+          "note": "군사로봇"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "ISRG",
+          "name": "Intuitive Surgical",
+          "note": "의료로봇"
+        },
+        {
+          "code": "ROK",
+          "name": "Rockwell Auto",
+          "note": "FA/자동화"
+        },
+        {
+          "code": "SERV",
+          "name": "Serve Robotics",
+          "note": "배달로봇"
+        },
+        {
+          "code": "PATH",
+          "name": "UiPath",
+          "note": "RPA"
+        },
+        {
+          "code": "RKLB",
+          "name": "Rocket Lab",
+          "note": "우주로봇"
+        }
+      ]
+    },
+    "원전": {
+      "keywords": [
+        "원전",
+        "원자력",
+        "nuclear",
+        "SMR",
+        "핵연료",
+        "우라늄",
+        "소형원전",
+        "원자력발전",
+        "기후변화",
+        "탄소중립",
+        "핵융합",
+        "토카막"
+      ],
+      "stocks_krx": [
+        {
+          "code": "034020",
+          "name": "두산에너빌리티"
+        },
+        {
+          "code": "009540",
+          "name": "신세계I&C"
+        },
+        {
+          "code": "267260",
+          "name": "HD현대일렉트릭"
+        },
+        {
+          "code": "006360",
+          "name": "GS건설"
+        },
+        {
+          "code": "000720",
+          "name": "현대건설"
+        },
+        {
+          "code": "047040",
+          "name": "대우건설"
+        },
+        {
+          "code": "005380",
+          "name": "현대차"
+        },
+        {
+          "code": "336260",
+          "name": "두산퓨얼셀"
+        },
+        {
+          "code": "009830",
+          "name": "한화솔루션",
+          "note": "원전 관련"
+        },
+        {
+          "code": "058470",
+          "name": "HG이노버스",
+          "note": "원전 밸브"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "CEG",
+          "name": "Constellation Energy",
+          "note": "원전 발전"
+        },
+        {
+          "code": "VST",
+          "name": "Vistra",
+          "note": "원전/에너지"
+        },
+        {
+          "code": "NNE",
+          "name": "Nano Nuclear",
+          "note": "마이크로 원전"
+        },
+        {
+          "code": "SMR",
+          "name": "NuScale",
+          "note": "SMR 기술"
+        },
+        {
+          "code": "CCJ",
+          "name": "Cameco",
+          "note": "우라늄"
+        }
+      ]
+    },
+    "우주": {
+      "keywords": [
+        "우주",
+        "space",
+        "스페이스X",
+        "위성",
+        "로켓",
+        "항공우주",
+        "스타링크",
+        "우주관광",
+        "아르테미스",
+        "달탐사",
+        "K-위성",
+        "LEO",
+        "위성인터넷"
+      ],
+      "stocks_krx": [
+        {
+          "code": "047810",
+          "name": "한국항공우주"
+        },
+        {
+          "code": "012450",
+          "name": "한화에어로스페이스"
+        },
+        {
+          "code": "079550",
+          "name": "LIG넥스원"
+        },
+        {
+          "code": "214150",
+          "name": "CL사"
+        },
+        {
+          "code": "298040",
+          "name": "휴마시스"
+        },
+        {
+          "code": "267260",
+          "name": "HD현대일렉트릭"
+        },
+        {
+          "code": "272210",
+          "name": "한화시스템"
+        },
+        {
+          "code": "277810",
+          "name": "HLB",
+          "note": "항공우주 부품"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "LMT",
+          "name": "Lockheed Martin",
+          "note": "위성/로켓"
+        },
+        {
+          "code": "BA",
+          "name": "Boeing",
+          "note": "우주/SLS"
+        },
+        {
+          "code": "RKLB",
+          "name": "Rocket Lab",
+          "note": "소형 로켓"
+        },
+        {
+          "code": "ASTS",
+          "name": "AST SpaceMobile",
+          "note": "위성 통신"
+        },
+        {
+          "code": "SATL",
+          "name": "Satellogic",
+          "note": "위성 이미지"
+        },
+        {
+          "code": "RDW",
+          "name": "Redwire",
+          "note": "우주 인프라"
+        }
+      ]
+    },
+    "자율주행": {
+      "keywords": [
+        "자율주행",
+        "autonomous",
+        "자동운전",
+        "ADAS",
+        "라이다",
+        "LiDAR",
+        "카메라",
+        "셀프드라이빙",
+        "웨이모",
+        "CNC",
+        "모빌리티",
+        "차량용반도체",
+        "커넥티드카"
+      ],
+      "stocks_krx": [
+        {
+          "code": "012330",
+          "name": "현대모비스"
+        },
+        {
+          "code": "005380",
+          "name": "현대차"
+        },
+        {
+          "code": "000270",
+          "name": "기아"
+        },
+        {
+          "code": "018880",
+          "name": "한온시스템"
+        },
+        {
+          "code": "090460",
+          "name": "비에이치"
+        },
+        {
+          "code": "161390",
+          "name": "한국타이어앤테크놀로지"
+        },
+        {
+          "code": "241560",
+          "name": "두산로보틱스"
+        },
+        {
+          "code": "005880",
+          "name": "삼성전기",
+          "note": "차량용 MLCC"
+        },
+        {
+          "code": "108320",
+          "name": "LX세미콘",
+          "note": "차량용 반도체"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "TSLA",
+          "name": "Tesla",
+          "note": "FSD/자율주행"
+        },
+        {
+          "code": "GOOGL",
+          "name": "Alphabet",
+          "note": "Waymo"
+        },
+        {
+          "code": "MBLY",
+          "name": "Mobileye",
+          "note": "ADAS 칩"
+        },
+        {
+          "code": "LAZR",
+          "name": "Luminar",
+          "note": "LiDAR"
+        },
+        {
+          "code": "RIVN",
+          "name": "Rivian",
+          "note": "자율주행 EV"
+        }
+      ]
+    },
+    "바이오": {
+      "keywords": [
+        "바이오",
+        "bio",
+        "제약",
+        "pharma",
+        "신약",
+        "임상",
+        "FDA",
+        "백신",
+        "항체",
+        "세포치료",
+        "유전자",
+        "RNA",
+        "GLP-1",
+        "비만약",
+        "노화방지",
+        "면역항암제",
+        "CAR-T",
+        "ADC",
+        "난치병"
+      ],
+      "stocks_krx": [
+        {
+          "code": "207940",
+          "name": "삼성바이오로직스"
+        },
+        {
+          "code": "326030",
+          "name": "SK바이오팜"
+        },
+        {
+          "code": "068270",
+          "name": "셀트리온"
+        },
+        {
+          "code": "328130",
+          "name": "루닛"
+        },
+        {
+          "code": "196170",
+          "name": "알테오젠"
+        },
+        {
+          "code": "145020",
+          "name": "휴젤"
+        },
+        {
+          "code": "141080",
+          "name": "더존비즈온"
+        },
+        {
+          "code": "005180",
+          "name": "일동홀딩스"
+        },
+        {
+          "code": "004990",
+          "name": "대한약품"
+        },
+        {
+          "code": "302440",
+          "name": "크리스탈지노믹스"
+        },
+        {
+          "code": "084690",
+          "name": "한올바이오파마"
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자",
+          "note": "바이오로직스 지분"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "LLY",
+          "name": "Eli Lilly",
+          "note": "GLP-1 비만약"
+        },
+        {
+          "code": "NVO",
+          "name": "Novo Nordisk",
+          "note": "오젬픽/위고비"
+        },
+        {
+          "code": "JNJ",
+          "name": "Johnson & Johnson",
+          "note": "종합 제약"
+        },
+        {
+          "code": "PFE",
+          "name": "Pfizer",
+          "note": "백신/제약"
+        },
+        {
+          "code": "MRNA",
+          "name": "Moderna",
+          "note": "mRNA"
+        },
+        {
+          "code": "AMGN",
+          "name": "Amgen",
+          "note": "바이오"
+        },
+        {
+          "code": "GILD",
+          "name": "Gilead",
+          "note": "항바이러스/ADC"
+        },
+        {
+          "code": "REGN",
+          "name": "Regeneron",
+          "note": "항체"
+        },
+        {
+          "code": "VRTX",
+          "name": "Vertex",
+          "note": "낭포성섬유증/CRISPR"
+        }
+      ]
+    },
+    "수소": {
+      "keywords": [
+        "수소",
+        "hydrogen",
+        "연료전지",
+        "수소차",
+        "수소충전",
+        "그린수소",
+        "블루수소",
+        "전해조",
+        "수소경제"
+      ],
+      "stocks_krx": [
+        {
+          "code": "245620",
+          "name": "두산퓨얼셀"
+        },
+        {
+          "code": "336260",
+          "name": "두산퓨얼셀"
+        },
+        {
+          "code": "005380",
+          "name": "현대차"
+        },
+        {
+          "code": "009830",
+          "name": "한화솔루션"
+        },
+        {
+          "code": "058470",
+          "name": "HG이노버스"
+        },
+        {
+          "code": "298040",
+          "name": "휴마시스"
+        },
+        {
+          "code": "034020",
+          "name": "두산에너빌리티",
+          "note": "수소 가스터빈"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "PLUG",
+          "name": "Plug Power",
+          "note": "수소 연료전지"
+        },
+        {
+          "code": "BE",
+          "name": "Bloom Energy",
+          "note": "연료전지"
+        },
+        {
+          "code": "FCEL",
+          "name": "FuelCell Energy",
+          "note": "수소 발전"
+        }
+      ]
+    },
+    "탄소배출권": {
+      "keywords": [
+        "탄소배출권",
+        "탄소중립",
+        "ESG",
+        "온실가스",
+        "넷제로",
+        "탄소세",
+        "크레딧",
+        "RE100",
+        "그린에너지",
+        "CBAM"
+      ],
+      "stocks_krx": [
+        {
+          "code": "009830",
+          "name": "한화솔루션"
+        },
+        {
+          "code": "117580",
+          "name": "대성에너지"
+        },
+        {
+          "code": "006650",
+          "name": "대성산업"
+        },
+        {
+          "code": "025950",
+          "name": "현대에너지솔루션"
+        },
+        {
+          "code": "322000",
+          "name": "현대에버다임"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "ENPH",
+          "name": "Enphase",
+          "note": "태양광 인버터"
+        },
+        {
+          "code": "SEDG",
+          "name": "SolarEdge",
+          "note": "태양광 인버터"
+        },
+        {
+          "code": "FSLR",
+          "name": "First Solar",
+          "note": "태양광 모듈"
+        },
+        {
+          "code": "ICLN",
+          "name": "iShares Clean Energy ETF",
+          "note": "청정에너지 ETF"
+        }
+      ]
+    },
+    "실리콘카바이드": {
+      "keywords": [
+        "실리콘카바이드",
+        "SiC",
+        "GaN",
+        "파워반도체",
+        "전력반도체",
+        "3세대반도체",
+        "갈륨나이트라이드",
+        "와이드밴드갭",
+        "SiC웨이퍼"
+      ],
+      "stocks_krx": [
+        {
+          "code": "060280",
+          "name": "LS전선"
+        },
+        {
+          "code": "005880",
+          "name": "삼성전기"
+        },
+        {
+          "code": "042700",
+          "name": "한미반도체"
+        },
+        {
+          "code": "267260",
+          "name": "HD현대일렉트릭"
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자"
+        },
+        {
+          "code": "108320",
+          "name": "LX세미콘"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "ON",
+          "name": "ON Semi",
+          "note": "SiC 파워"
+        },
+        {
+          "code": "WOLF",
+          "name": "Wolfspeed",
+          "note": "SiC 웨이퍼"
+        },
+        {
+          "code": "QRVO",
+          "name": "Qorvo",
+          "note": "GaN/SiC"
+        }
+      ]
+    },
+    "건설": {
+      "keywords": [
+        "건설",
+        "construction",
+        "인프라",
+        "SOC",
+        "아파트",
+        "분양",
+        "건축",
+        "토목",
+        "PLISM",
+        "신도시",
+        "정책",
+        "택지개발",
+        "도시재생"
+      ],
+      "stocks_krx": [
+        {
+          "code": "000720",
+          "name": "현대건설"
+        },
+        {
+          "code": "047040",
+          "name": "대우건설"
+        },
+        {
+          "code": "006360",
+          "name": "GS건설"
+        },
+        {
+          "code": "000210",
+          "name": "DL이앤씨"
+        },
+        {
+          "code": "032500",
+          "name": "코오롱글로벌"
+        },
+        {
+          "code": "009830",
+          "name": "한화솔루션"
+        },
+        {
+          "code": "005380",
+          "name": "현대차",
+          "note": "건설 자회사"
+        },
+        {
+          "code": "009450",
+          "name": "한화생명",
+          "note": "PF 투자"
+        }
+      ],
+      "stocks_us": []
+    },
+    "금융": {
+      "keywords": [
+        "금리",
+        "금융",
+        "bank",
+        "은행",
+        "보험",
+        "증권",
+        "연준",
+        "FOMC",
+        "기준금리",
+        "콜금리",
+        "버핏",
+        "양적완화",
+        "테이퍼링",
+        "베이시스"
+      ],
+      "stocks_krx": [
+        {
+          "code": "105560",
+          "name": "KB금융"
+        },
+        {
+          "code": "055550",
+          "name": "신한지주"
+        },
+        {
+          "code": "086790",
+          "name": "하나금융지주"
+        },
+        {
+          "code": "316140",
+          "name": "우리금융지주"
+        },
+        {
+          "code": "024110",
+          "name": "기업은행"
+        },
+        {
+          "code": "005830",
+          "name": "DB손해보험"
+        },
+        {
+          "code": "032830",
+          "name": "삼성생명"
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자",
+          "note": "주식시장 베팅"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "JPM",
+          "name": "JPMorgan",
+          "note": "종합 금융"
+        },
+        {
+          "code": "BAC",
+          "name": "Bank of America",
+          "note": "은행"
+        },
+        {
+          "code": "GS",
+          "name": "Goldman Sachs",
+          "note": "투자은행"
+        },
+        {
+          "code": "V",
+          "name": "Visa",
+          "note": "결제"
+        },
+        {
+          "code": "MA",
+          "name": "Mastercard",
+          "note": "결제"
+        }
+      ]
+    },
+    "철강소재": {
+      "keywords": [
+        "철강",
+        "steel",
+        "철광석",
+        "코크스",
+        "압연",
+        "강판",
+        "스테인리스",
+        "갈륨",
+        "저마늄",
+        "소재",
+        "특수강",
+        "합금강"
+      ],
+      "stocks_krx": [
+        {
+          "code": "005490",
+          "name": "POSCO홀딩스"
+        },
+        {
+          "code": "010130",
+          "name": "고려아연"
+        },
+        {
+          "code": "004020",
+          "name": "현대제철"
+        },
+        {
+          "code": "103140",
+          "name": "풍산"
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "NUE",
+          "name": "Nucor",
+          "note": "미국 1위 철강"
+        },
+        {
+          "code": "STLD",
+          "name": "Steel Dynamics",
+          "note": "철강"
+        },
+        {
+          "code": "X",
+          "name": "US Steel",
+          "note": "종합 철강"
+        }
+      ]
+    },
+    "유통": {
+      "keywords": [
+        "유통",
+        "retail",
+        "쇼핑",
+        "백화점",
+        "마트",
+        "커머스",
+        "이커머스",
+        "면세점",
+        "오프라인",
+        "소비",
+        "온라인쇼핑",
+        "Q커머스"
+      ],
+      "stocks_krx": [
+        {
+          "code": "004170",
+          "name": "신세계"
+        },
+        {
+          "code": "139480",
+          "name": "이마트"
+        },
+        {
+          "code": "023530",
+          "name": "롯데쇼핑"
+        },
+        {
+          "code": "035420",
+          "name": "NAVER"
+        },
+        {
+          "code": "035720",
+          "name": "카카오"
+        },
+        {
+          "code": "377300",
+          "name": "당근마켓",
+          "note": "C2C 커머스"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "AMZN",
+          "name": "Amazon",
+          "note": "이커머스"
+        },
+        {
+          "code": "WMT",
+          "name": "Walmart",
+          "note": "오프라인/온라인"
+        },
+        {
+          "code": "COST",
+          "name": "Costco",
+          "note": "회원제"
+        },
+        {
+          "code": "TGT",
+          "name": "Target",
+          "note": "백화점"
+        }
+      ]
+    },
+    "엔터": {
+      "keywords": [
+        "엔터",
+        "entertainment",
+        "K팝",
+        "영화",
+        "드라마",
+        "콘텐츠",
+        "아이돌",
+        "음악",
+        "공연",
+        "게임",
+        "OTT",
+        "넷플릭스",
+        "디즈니",
+        "웹툰",
+        "IP"
+      ],
+      "stocks_krx": [
+        {
+          "code": "352820",
+          "name": "하이브"
+        },
+        {
+          "code": "041510",
+          "name": "에스엠"
+        },
+        {
+          "code": "122870",
+          "name": "와이지엔터테인먼트"
+        },
+        {
+          "code": "036570",
+          "name": "엔씨소프트"
+        },
+        {
+          "code": "259960",
+          "name": "크래프톤"
+        },
+        {
+          "code": "251270",
+          "name": "넷마블"
+        },
+        {
+          "code": "263750",
+          "name": "펄어비스"
+        },
+        {
+          "code": "323130",
+          "name": "데브시스터즈"
+        },
+        {
+          "code": "259960",
+          "name": "크래프톤",
+          "note": "게임"
+        },
+        {
+          "code": "035720",
+          "name": "카카오",
+          "note": "카카오엔터"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "NFLX",
+          "name": "Netflix",
+          "note": "OTT"
+        },
+        {
+          "code": "DIS",
+          "name": "Disney",
+          "note": "종합 엔터"
+        },
+        {
+          "code": "EA",
+          "name": "Electronic Arts",
+          "note": "게임"
+        },
+        {
+          "code": "TTWO",
+          "name": "Take-Two",
+          "note": "게임"
+        },
+        {
+          "code": "LYV",
+          "name": "Live Nation",
+          "note": "공연"
+        }
+      ]
+    },
+    "통신": {
+      "keywords": [
+        "통신",
+        "5G",
+        "6G",
+        "LTE",
+        "통신망",
+        "SKT",
+        "KT",
+        "LGU+",
+        "인터넷",
+        "WiFi",
+        "스마트폰",
+        "사물인터넷",
+        "IoT",
+        "M2M"
+      ],
+      "stocks_krx": [
+        {
+          "code": "017670",
+          "name": "SK텔레콤"
+        },
+        {
+          "code": "030200",
+          "name": "KT"
+        },
+        {
+          "code": "032640",
+          "name": "LG유플러스"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "T",
+          "name": "AT&T",
+          "note": "통신"
+        },
+        {
+          "code": "VZ",
+          "name": "Verizon",
+          "note": "통신"
+        },
+        {
+          "code": "TMUS",
+          "name": "T-Mobile",
+          "note": "5G"
+        }
+      ]
+    },
+    "정유화학": {
+      "keywords": [
+        "정유",
+        "석유",
+        "원유",
+        "가솔린",
+        "디젤",
+        "나프타",
+        "화학",
+        "petrochemical",
+        "에틸렌",
+        "프로필렌",
+        "OPEC",
+        "유가",
+        "PX",
+        "PTA",
+        "카본블랙"
+      ],
+      "stocks_krx": [
+        {
+          "code": "010950",
+          "name": "S-Oil"
+        },
+        {
+          "code": "051910",
+          "name": "LG화학"
+        },
+        {
+          "code": "096770",
+          "name": "SK이노베이션"
+        },
+        {
+          "code": "006650",
+          "name": "대성산업"
+        },
+        {
+          "code": "006400",
+          "name": "삼성SDI"
+        },
+        {
+          "code": "005490",
+          "name": "POSCO홀딩스",
+          "note": "석탄화학"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "XOM",
+          "name": "ExxonMobil",
+          "note": "종합 에너지"
+        },
+        {
+          "code": "CVX",
+          "name": "Chevron",
+          "note": "종합 에너지"
+        },
+        {
+          "code": "DOW",
+          "name": "Dow Inc",
+          "note": "화학"
+        },
+        {
+          "code": "DD",
+          "name": "DuPont",
+          "note": "특수화학"
+        }
+      ]
+    },
+    "태양광": {
+      "keywords": [
+        "태양광",
+        "solar",
+        "PV",
+        "광전",
+        "태양광모듈",
+        "인버터",
+        "신재생",
+        "재생에너지",
+        "그린",
+        "PERC",
+        "TOPCon",
+        "HJT"
+      ],
+      "stocks_krx": [
+        {
+          "code": "009830",
+          "name": "한화솔루션"
+        },
+        {
+          "code": "025950",
+          "name": "현대에너지솔루션"
+        },
+        {
+          "code": "117580",
+          "name": "대성에너지"
+        },
+        {
+          "code": "322000",
+          "name": "현대에버다임"
+        },
+        {
+          "code": "240810",
+          "name": "원익IPS"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "FSLR",
+          "name": "First Solar",
+          "note": "박막 태양광"
+        },
+        {
+          "code": "ENPH",
+          "name": "Enphase",
+          "note": "인버터"
+        },
+        {
+          "code": "SEDG",
+          "name": "SolarEdge",
+          "note": "인버터"
+        },
+        {
+          "code": "TAN",
+          "name": "Invesco Solar ETF",
+          "note": "태양광 ETF"
+        }
+      ]
+    },
+    "증시테마_재료": {
+      "keywords": [
+        "급등",
+        "신고가",
+        "대량거래",
+        "외국인매수",
+        "기관순매수",
+        "보합",
+        "바닥권",
+        "반등",
+        "조정",
+        "돌파",
+        "저항선",
+        "지지선",
+        "PER",
+        "PBR",
+        "ROE",
+        "배당",
+        "자사주"
+      ],
+      "stocks_krx": [
+        {
+          "code": "005930",
+          "name": "삼성전자"
+        },
+        {
+          "code": "000660",
+          "name": "SK하이닉스"
+        },
+        {
+          "code": "005380",
+          "name": "현대차"
+        },
+        {
+          "code": "055550",
+          "name": "신한지주"
+        },
+        {
+          "code": "005490",
+          "name": "POSCO홀딩스"
+        },
+        {
+          "code": "035720",
+          "name": "카카오"
+        },
+        {
+          "code": "035420",
+          "name": "NAVER"
+        },
+        {
+          "code": "105560",
+          "name": "KB금융"
+        },
+        {
+          "code": "207940",
+          "name": "삼성바이오로직스"
+        },
+        {
+          "code": "373220",
+          "name": "LG에너지솔루션"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "SPY",
+          "name": "S&P 500 ETF",
+          "note": "미국 시장 벤치마크"
+        },
+        {
+          "code": "QQQ",
+          "name": "Nasdaq 100 ETF",
+          "note": "기술주 ETF"
+        },
+        {
+          "code": "SMH",
+          "name": "Semiconductor ETF",
+          "note": "반도체 ETF"
+        },
+        {
+          "code": "SOXX",
+          "name": "SOX ETF",
+          "note": "반도체 ETF"
+        }
+      ]
+    },
+    "양자컴퓨팅": {
+      "keywords": [
+        "양자",
+        "quantum",
+        "큐비트",
+        "양자컴퓨터",
+        "양자통신",
+        "양자암호",
+        "초전도",
+        "이온트랩"
+      ],
+      "stocks_krx": [
+        {
+          "code": "035720",
+          "name": "카카오",
+          "note": "양자컴퓨팅 연구"
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자",
+          "note": "양자기술 연구"
+        },
+        {
+          "code": "000660",
+          "name": "SK하이닉스",
+          "note": "차세대 메모리"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "IONQ",
+          "name": "IonQ",
+          "note": "양자컴퓨팅"
+        },
+        {
+          "code": "IBM",
+          "name": "IBM",
+          "note": "양자컴퓨팅"
+        },
+        {
+          "code": "QBTS",
+          "name": "D-Wave Quantum",
+          "note": "양자어닐링"
+        },
+        {
+          "code": "RGTI",
+          "name": "Rigetti",
+          "note": "양자컴퓨팅"
+        }
+      ]
+    },
+    "디지털헬스케어": {
+      "keywords": [
+        "디지털헬스",
+        "헬스케어",
+        "원격진료",
+        "AI의료",
+        "디지털치료",
+        "바이오헬스",
+        "의료AI",
+        "디지털치료제"
+      ],
+      "stocks_krx": [
+        {
+          "code": "207940",
+          "name": "삼성바이오로직스"
+        },
+        {
+          "code": "328130",
+          "name": "루닛"
+        },
+        {
+          "code": "068270",
+          "name": "셀트리온"
+        },
+        {
+          "code": "302440",
+          "name": "크리스탈지노믹스"
+        },
+        {
+          "code": "145020",
+          "name": "휴젤"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "TDOC",
+          "name": "Teladoc",
+          "note": "원격진료"
+        },
+        {
+          "code": "ISRG",
+          "name": "Intuitive Surgical",
+          "note": "의료로봇"
+        },
+        {
+          "code": "VEEV",
+          "name": "Veeva Systems",
+          "note": "의료 SaaS"
+        }
+      ]
+    },
+    "해운_물류": {
+      "keywords": [
+        "해운",
+        "선박",
+        "컨테이너",
+        "운임",
+        "항만",
+        "물류",
+        "SCFI",
+        "BDI",
+        "선가",
+        "LNG선"
+      ],
+      "stocks_krx": [
+        {
+          "code": "005490",
+          "name": "POSCO홀딩스",
+          "note": "종합물류"
+        },
+        {
+          "code": "011200",
+          "name": "HMM"
+        },
+        {
+          "code": "001440",
+          "name": "대한전선",
+          "note": "해저케이블"
+        },
+        {
+          "code": "069660",
+          "name": "현대미포조선",
+          "note": "조선"
+        },
+        {
+          "code": "329180",
+          "name": "HD현대중공업"
+        }
+      ],
+      "stocks_us": [
+        {
+          "code": "ZIM",
+          "name": "ZIM Integrated",
+          "note": "해운"
+        },
+        {
+          "code": "MATX",
+          "name": "Matson",
+          "note": "해운"
+        },
+        {
+          "code": "FDX",
+          "name": "FedEx",
+          "note": "물류"
+        },
+        {
+          "code": "UPS",
+          "name": "UPS",
+          "note": "물류"
+        }
+      ]
+    },
+    "조선": {
+      "keywords": [
+        "조선",
+        "shipbuilding",
+        "LNG운반선",
+        "컨테이너선",
+        "해군",
+        "구축함",
+        "FPSO",
+        "해양플랜트"
+      ],
+      "stocks_krx": [
+        {
+          "code": "329180",
+          "name": "HD현대중공업"
+        },
+        {
+          "code": "069660",
+          "name": "현대미포조선"
+        },
+        {
+          "code": "047810",
+          "name": "한국항공우주"
+        },
+        {
+          "code": "012450",
+          "name": "한화에어로스페이스"
+        }
+      ],
+      "stocks_us": []
+    }
+  }
+}
